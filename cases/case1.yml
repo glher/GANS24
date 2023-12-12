@@ -1,0 +1,10 @@
+DESCRIPTION: This describes the case
+MODE: sweep
+REACTORS:
+    - SMR4
+    - MMR1
+    - MMR2
+    - MMR3
+DATA: /Users/glher/Projects/GANS/Data/World
+INPUTS: constraints_1
+DEBUG: No
